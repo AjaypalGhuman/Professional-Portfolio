@@ -1,5 +1,8 @@
 # Professional-Portfolio
 
+<img width="1384" alt="Screen Shot 2022-02-13 at 2 44 45 PM" src="https://user-images.githubusercontent.com/95589049/153772963-4138de1c-043c-4b10-8fd2-547b57aa3fd5.png">
+
+
 Live Github URL: https://ajaypalghuman.github.io/Popcorn-Time/
 
 Advanced CSS Challenge: Professional Portfolio
@@ -27,3 +30,4 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
