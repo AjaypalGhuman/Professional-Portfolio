@@ -3,7 +3,7 @@
 <img width="1384" alt="Screen Shot 2022-02-13 at 2 44 45 PM" src="https://user-images.githubusercontent.com/95589049/153772963-4138de1c-043c-4b10-8fd2-547b57aa3fd5.png">
 
 
-Live Github URL: https://ajaypalghuman.github.io/Popcorn-Time/
+Live Github URL: https://ajaypalghuman.github.io/Professional-Portfolio/
 
 Advanced CSS Challenge: Professional Portfolio
 
